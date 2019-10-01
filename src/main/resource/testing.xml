@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="splitwisre">
+	<test  name="TestTest" >
+		<classes>
+			<class name="org.testcases.LoginTest" />
+			<class name="org.testcases.HomeTest" />
+			<class name="org.testcases.CreateGroupTest" />
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [splitwisre]">
+  <test thread-count="5" name="TestTest(failed)">
+    <classes>
+      <class name="org.testcases.LoginTest">
+        <methods>
+          <include name="login"/>
+          <include name="setUP"/>
+        </methods>
+      </class> <!-- org.testcases.LoginTest -->
+      <class name="org.testcases.CreateGroupTest">
+        <methods>
+          <include name="setUP"/>
+          <include name="fillTheGroup"/>
+        </methods>
+      </class> <!-- org.testcases.CreateGroupTest -->
+      <class name="org.testcases.HomeTest">
+        <methods>
+          <include name="setUP"/>
+          <include name="clickNewgroup"/>
+        </methods>
+      </class> <!-- org.testcases.HomeTest -->
+    </classes>
+  </test> <!-- TestTest(failed) -->
+</suite> <!-- Failed suite [splitwisre] -->

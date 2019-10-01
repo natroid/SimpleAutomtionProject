@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48943" started-at="2019-10-01T11:21:39Z" finished-at="2019-10-01T11:22:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48943" started-at="2019-10-01T11:21:39Z" finished-at="2019-10-01T11:22:28Z">
+      <class name="org.testcases.LoginTest">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:org.testcases.LoginTest@369f73a2]" name="setUP" is-config="true" duration-ms="15206" started-at="2019-10-01T11:21:39Z" finished-at="2019-10-01T11:21:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="intiteLogin()[pri:1, instance:org.testcases.LoginTest@369f73a2]" name="intiteLogin" duration-ms="3464" started-at="2019-10-01T11:21:54Z" finished-at="2019-10-01T11:21:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intiteLogin -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:org.testcases.LoginTest@369f73a2]" name="setUP" is-config="true" duration-ms="19303" started-at="2019-10-01T11:21:57Z" finished-at="2019-10-01T11:22:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="login()[pri:2, instance:org.testcases.LoginTest@369f73a2]" name="login" duration-ms="10880" started-at="2019-10-01T11:22:17Z" finished-at="2019-10-01T11:22:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- org.testcases.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

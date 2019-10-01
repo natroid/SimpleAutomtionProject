@@ -1,0 +1,13 @@
+2019-10-01 16:51:39,065  INFO [main] Maintest:31 - starting Browser
+2019-10-01 16:51:39,280  INFO [main] Maintest:45 - intilizer
+2019-10-01 16:51:47,350  INFO [main] Maintest:31 - starting Browser
+2019-10-01 16:51:47,351  INFO [main] Maintest:52 - delete all cookies
+2019-10-01 16:51:49,177  INFO [main] Maintest:58 - success
+2019-10-01 16:51:54,402  INFO [main] Maintest:31 - starting Browser
+2019-10-01 16:51:57,931  INFO [main] Maintest:29 - click the login page
+2019-10-01 16:51:57,956  INFO [main] Maintest:45 - intilizer
+2019-10-01 16:52:10,886  INFO [main] Maintest:31 - starting Browser
+2019-10-01 16:52:10,886  INFO [main] Maintest:52 - delete all cookies
+2019-10-01 16:52:12,328  INFO [main] Maintest:58 - success
+2019-10-01 16:52:17,251  INFO [main] Maintest:31 - starting Browser
+2019-10-01 16:52:28,131  INFO [main] Maintest:31 - starting Browser
